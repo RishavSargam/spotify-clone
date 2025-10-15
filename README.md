@@ -1,4 +1,6 @@
 # spotify-clone
+# ongoing
+
 This project is part of my portfolio and resume projects, demonstrating full-stack development skills, UI/UX design, and working with REST APIs.
 
 # Features
